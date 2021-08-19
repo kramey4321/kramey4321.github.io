@@ -1,5 +1,13 @@
 ---
 layout: post
-title: First Blog
+title: Data Scientist - Pulling Back the Curtain
 ---
-Hiya!
+Whenever career fairs occurred at the high school I teach at, I would always make a bee line for the 'Data Scientist/Analytics' sessions.  I would hear presentations from different companies (via parent volunteers and alumni), explaining to students what a data scientist is and what they look for in a candidate.  I remember feeling all warm inside when one presenter told the audience that the biggest quality they look for is in a job applicant was that they were a story teller.  They said anyone can be taught the math and the coding but being able to communicate clearly and engagingly was something either you had, or you didn't.  With 20+ years of teaching - ahem - I mean, math storytelling, that was music to my ears, and I would think to myself, 'If I ever leave teaching, that's what I'm going to be!'  
+
+Little did I know that they all lied.  After reading the article, I was disheartened to read the cold hard 'truth' of what a Data Scientist is.  I put truths in quotes because there doesn't quite seem to be a universal job description.  I believe part of that is because the field is so cutting-edge.  However, what was a common theme in all of the articles is that a Data Scientist is more a 'programmer with a plan' than a storyteller.  A 'jack of all trades' who is fluent in statistical theory, coding, and product knowledge that they can weave together core principles into a computer language that models whatever their company needs. They need to see the big picture on how things connect and how to be efficient.  They can take the theory that was applied to a cute tiny data set from a Stat textbook to conquer mega data with it.
+
+I am three classes away from earning my Masters in Statistics and I can honestly say that I did not feel remotely qualified for the different job postings listed in one of the articles.  To be fair, I am currently enrolled in my first programming intensive course, and while I feel apprehensive, I am excited at the same time.  When I was an undergrad, majoring in mathematics, I always viewed myself as a theorist, not an applied mathematician.  I was pushed into the land of 'application' and frankly 'messiness' when I entered the world of Statistics.  Ironically, after reading these articles, I have Deja vu all over again.  I feel that my Statistic knowledge is now put into the 'theoretical' bin and this course will push me outside my comfort zone once again.  The difference this time is that the 'theoretical' component is the data.  My masters’ courses have taught me theory and application with textbook, clean and polished data.  This course now will kick me in the gut with real world, messy, huge data.  I'm ready for the challenge!  Let’s do this!
+
+PS - my new favorite word is now 'kerfuffle'
+
+
