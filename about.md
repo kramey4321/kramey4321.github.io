@@ -3,7 +3,9 @@ layout: page
 title: About ME! :)
 permalink: /about/
 ---
-![ArtProject1](/images/artprojectresized.png)
+
+![ArtProject](/images/Staculussoloresized.png) 
+
 ### Job Title
 
 * Teacher, Upper School Math Department
@@ -19,10 +21,11 @@ permalink: /about/
 * persuing Masters in Statistics, North Carolina State University
 
 ### Pubication
-
-![ArtProject](/images/Staculussoloresized.png)  
+ 
 * [Stats and Storytelling -CA Discoveries Winter 2021](https://www.caryacademy.org/ca-experience/publications/)
 
 ### Contact me
 
 [kristi_ramey@caryacademy.org](mailto:kristi_ramey@caryacademy.org)
+
+![ArtProject1](/images/artprojectresized.png)
