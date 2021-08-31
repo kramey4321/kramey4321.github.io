@@ -4,7 +4,7 @@ title: About ME! :)
 permalink: /about/
 ---
 
-![ArtProject](/images/Staculussoloresized.png) 
+![ArtProject](/images/Staculussolo.png) 
 
 ### Job Title
 
