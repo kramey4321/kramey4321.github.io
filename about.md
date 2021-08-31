@@ -14,9 +14,8 @@ permalink: /about/
 * Major in Mathematics, The College of William and Mary
 * Masters in Education, George Mason University
 * National Board Certification, 9-12 Mathematics
-* Teaching License, North Carolina
-  **Mathematics 6-9
-  **Mathematics 9-12
+* Teaching License, North Carolina <br>
+     (Mathematics 6-9 & Mathematics 9-12)  
 * persuing Masters in Statistics, North Carolina State University
 
 ### Pubication
