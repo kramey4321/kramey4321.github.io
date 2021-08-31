@@ -3,7 +3,7 @@ layout: page
 title: About Me! :)
 permalink: /about/
 ---
-![ArtProject1](/images/artproject.png)
+![ArtProject1](/images/artprojectresized.png)
 ### Job Title
 
 * Teacher, Upper School Math Department
