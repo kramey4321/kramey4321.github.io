@@ -8,7 +8,8 @@ permalink: /about/
 
 ### Job Title
 
-* Teacher, Upper School Math Department
+* Teacher, Cary Academy <br>
+   Upper School Math Department
 * Lead Advisor, Class of 2025
 
 ### Education & Certifications
