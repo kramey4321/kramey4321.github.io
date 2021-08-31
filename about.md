@@ -20,8 +20,7 @@ permalink: /about/
 
 ### Pubication
 
-![ArtProject](/images/Staculussoloresized.png)
-* [Stats and Storytelling -CA Discoveries Winter 2021](https://www.caryacademy.org/ca-experience/publications/)
+![ArtProject](/images/Staculussoloresized.png)  * [Stats and Storytelling -CA Discoveries Winter 2021](https://www.caryacademy.org/ca-experience/publications/)
 
 ### Contact me
 
