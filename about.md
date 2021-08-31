@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: About Me! :)
 permalink: /about/
 ---
 
-Some information about you!
+### Job Title
 
-### More Information
+* Teacher, Upper School Math Department
+* Lead Advisor, Class of 2025
 
-A place to include any other types of information that you'd like to include about yourself.
+### Education & Certifications
+
+* Major in Mathematics, The College of William and Mary
+* Masters in Education, George Mason University
+* National Board Certification, 9-12 Mathematics
+* Teaching License, North Carolina
+* persuing Masters in Statistics, North Carolina State University
+
+
+### Pubication
+
+* [Stats and Storytelling -CA Discoveries Winter 2021](https://www.caryacademy.org/ca-experience/publications/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kristi_ramey@caryacademy.org](mailto:kristi_ramey@caryacademy.org)
