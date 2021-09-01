@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About ME!  `:relaxed:`
+title: About ME! 
 permalink: /about/
 ---
-
+☺️
 
 ![ArtProject](/images/soloprojectresize.png) 
 
