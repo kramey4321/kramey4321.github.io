@@ -14,11 +14,11 @@ permalink: /about/
 ### Education & Certifications
 
 * Major in Mathematics, The College of William and Mary
-* Masters in Education, George Mason University
+* Master's in Education, George Mason University
 * National Board Certification, 9-12 Mathematics
 * Teaching License, North Carolina <br>
      (Mathematics 6-9 & Mathematics 9-12) 
-* pursuing Masters in Statistics, North Carolina State University
+* Pursuing Masters in Statistics, North Carolina State University
 
 ### Pubication
  
