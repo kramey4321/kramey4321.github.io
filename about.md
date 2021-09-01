@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About ME!  `:relaxed:`
+title: About ME!  
+:relaxed:
 permalink: /about/
 ---
 
