@@ -18,7 +18,7 @@ permalink: /about/
 * National Board Certification, 9-12 Mathematics
 * Teaching License, North Carolina <br>
      (Mathematics 6-9 & Mathematics 9-12) 
-* persuing Masters in Statistics, North Carolina State University
+* pursuing Masters in Statistics, North Carolina State University
 
 ### Pubication
  
