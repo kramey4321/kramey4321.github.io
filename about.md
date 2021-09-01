@@ -3,7 +3,7 @@ layout: page
 title: About ME! 
 permalink: /about/
 ---
-
+<p align="center">
 ![ArtProject](/images/soloprojectresize.png) 
 
 ### Job Title
@@ -27,7 +27,8 @@ permalink: /about/
 ### Contact me 👋
 
 [kristi_ramey@caryacademy.org](mailto:kristi_ramey@caryacademy.org)
-
+     
+<p align="center">
 ![ArtProject1](/images/artprojectresized.png)
 
 <p align="center"> :smiley_cat:
