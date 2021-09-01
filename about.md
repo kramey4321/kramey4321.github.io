@@ -30,4 +30,4 @@ permalink: /about/
 
 ![ArtProject1](/images/artprojectresized.png)
 
-In honor of my professor - :smiley_cat:
+<p align="center"> :smiley_cat:
