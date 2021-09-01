@@ -30,4 +30,4 @@ permalink: /about/
      
 ![ArtProject1](/images/artprojectresized.png)
 
-<p align="center"> :smiley_cat:
+## <p align="center"> 😸
