@@ -3,7 +3,6 @@ layout: page
 title: About ME! 
 permalink: /about/
 ---
-☺️
 
 ![ArtProject](/images/soloprojectresize.png) 
 
@@ -25,8 +24,10 @@ permalink: /about/
  
 * [Stats and Storytelling -CA Discoveries Winter 2021](https://www.caryacademy.org/ca-experience/publications/)
 
-### Contact me
+### Contact me 👋
 
 [kristi_ramey@caryacademy.org](mailto:kristi_ramey@caryacademy.org)
 
 ![ArtProject1](/images/artprojectresized.png)
+
+In honor of my professor - :smiley_cat:
