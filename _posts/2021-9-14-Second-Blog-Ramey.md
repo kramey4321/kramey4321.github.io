@@ -16,6 +16,7 @@ reason my project turned into an odyssey was that I had failed to add
 ‘+1’ to my counter, so my code went off to an oblivion of zeros and ones
 and kept crashing my computer. Thus started my love of computer
 science.  
+
 Fast forward to entering into the Master’s program in Statistics at NC
 State… While this course is my first exposure to intense programming
 with R, I had dabbled in R labs in previous course. Most of those ‘toe
@@ -33,6 +34,7 @@ and fought off R Markdown until this course and now I see its full
 glory! No more screen clipping code and adding them to a OneNote page.
 My professor has mentioned numerous times that the best and worst thing
 is most things have multiple ways to code it in.  
+
 I also have had two courses that used SAS instead of R. My impression of
 SAS was a pal that made you buy their Amway products. It’s been a full
 year since SAS coding, but I remember it as being very straightforward
@@ -43,12 +45,15 @@ had to call Tech Support, where the person had to take over my computer
 to install it. Why the issue, you ask? Because my work computer used
 ‘D:’ as the personal directory, instead of the more common ‘C:’. I also
 remember my license expiring right as a project was due, which gave me
-more adrenaline than was needed. Of the two languages, I prefer R, which
-is why I waited NC State out for them to remove the ST555 requirement
-for Master candidates (an intensive SAS course). While that gave me one
-less language to struggle with, it came at a cost. I wish I had taken my
-program intensive course sooner, since it would have given me more
-confidence and knowledge with R, before the concepts became intense.
+more adrenaline than was needed. 
+
+Of the two languages, I prefer R, which is why I waited NC State out for 
+them to remove the ST555 requirement for Master candidates (an intensive 
+SAS course). While that gave me one less language to struggle with, it came
+at a cost. I wish I had taken my program intensive course sooner, since 
+it would have given me more confidence and knowledge with R, before 
+the concepts became intense.  
+
 But, se la vie, I’m glad I’m in this course now.
 
 ## Example R Markdown output.
