@@ -3,7 +3,7 @@ Programming Background
 Kristi Ramey
 9/14/2021
 
-## Programming Background
+## Reflection on Coding
 
 Back when I was a wee-undergrad, I took one intro to programming course
 for my math major which used the language C++. I remember fondly my
