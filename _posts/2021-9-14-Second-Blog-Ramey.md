@@ -23,7 +23,7 @@ with R, I had dabbled in R labs in previous course. Most of those ‘toe
 dipping’ experiences were following the professor’s code, line by line
 and changing one or two fields to fit the problem. Overall, it was a
 nice experience, but I did have several instances where the professor
-underestimated my dependance on their examples and was left in a tizzy
+underestimated my dependence on their examples and was left in a tizzy
 when the file or operation deviated one step past the provided code.
 While I wouldn’t say I enjoy R, I now have a deeper appreciation. I like
 the rather simple structure of vectors, matrices, data frames, and
