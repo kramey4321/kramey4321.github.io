@@ -4,6 +4,8 @@ title: Project 1 - The Aftermath
 ---
 [ST558 Project 1: All Things Pokemon](https://kramey4321.github.io/ST558proj1/)
 
+[Repo](https://github.com/kramey4321/ST558proj1)
+
 For this project, I created a vignette that pulls data from the Pokémon API that created user friendly functions and data analysis.  I am addicted to the Pokémon GO app and loved being able to tie my passion into my project.  
 
 It was interesting to peak behind the curtain and see numerically why a pidgey is so much easier to catch than a palkia.  All players of Pokemon Go have experienced firsthand the pains of a pokemon escaping capture and know before they throw that first ball whether this will be a nail-biter experience, but it was very satisfying to see how they use capture rates to quantify this interaction.    
