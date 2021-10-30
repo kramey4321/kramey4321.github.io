@@ -1,3 +1,7 @@
+Project repo site: [https://clazarski.github.io/st558_project2/](Stuff)  
+Project repo: https://github.com/clazarski/st558_project2
+
+
 
 ### What would you do differently?
 Get a different partner....HAHAHAHA!  j/k  Craig is the BEST and I am so glad to be doing this project, this program, and this life with him.
