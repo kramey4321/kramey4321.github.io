@@ -2,7 +2,8 @@
 layout: post
 title: Project 2 - Surviving Another Quest
 ---
-[ST558 Project 2: Sharing is Caring](https://clazarski.github.io/st558_project2/)  
+[ST558 Project 2: Sharing is Caring](https://clazarski.github.io/st558_project2/)   
+
 [Repo](https://github.com/clazarski/st558_project2)
 
 
@@ -33,4 +34,4 @@ and of creating automations all are worth it once you realize how streamline and
 
 ### Homage to my Project 1 code:
 
-![PigeonTruth](/images/pigeon1.jpg)
+![PigeonTruth](/images/birdie.jpg)
