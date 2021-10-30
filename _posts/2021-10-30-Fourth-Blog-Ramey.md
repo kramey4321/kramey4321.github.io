@@ -31,6 +31,6 @@ I CAN DO ANYTHING!!!...with Craig's help.
 Also, I am appreciating more and more what programming can do.  The 'labor pains' of navigating Markdown, of learning R packages (such as caret, gbm, etc),
 and of creating automations all are worth it once you realize how streamline and professional your analysis can become.
 
-### Reflection on my rather inefficient Project 1 code:
+### Homage to my Project 1 code:
 
-![PigeonTruth](/images/pigeon.jpg)
+![PigeonTruth](/images/pigeon1.jpg)
