@@ -1,5 +1,9 @@
-Project repo site: [https://clazarski.github.io/st558_project2/](Stuff)  
-Project repo: https://github.com/clazarski/st558_project2
+---
+layout: post
+title: Project 2 - Surviving Another Quest
+---
+[ST558 Project 2: Sharing is Caring](https://clazarski.github.io/st558_project2/)  
+[Repo](https://github.com/clazarski/st558_project2)
 
 
 
